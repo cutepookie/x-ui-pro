@@ -1,4 +1,4 @@
-## x-ui-pro (x-ui + nginx)
+# x-ui-pro (x-ui + nginx)
 > Auto SSL renew
 > Multi SubDomain Support
 > Suppor
