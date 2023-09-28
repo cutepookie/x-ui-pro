@@ -45,10 +45,11 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/client_config.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### v2rayN Configuration ⚙️
->Block GFW List (Server/ouput) , Direct GFW (Client)
+> Block GFW List (Server/ouput)
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/ipban.sh) -install yes -io OUTPUT -geoip CN,IR,RU,CU,VN,ZW,BY -limit DROP -noicmp yes
 ```
+> Direct GFW List (Client)
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/direct_gfw.png)
 
 ## Tools
