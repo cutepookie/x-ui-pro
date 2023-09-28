@@ -1,5 +1,5 @@
 ## x-ui-pro (x-ui + nginx) :octocat:	:open_file_folder:	
-- Auto Installation
+- Auto Installation (lightweight)
 - Compatible with Cloudflare
 - Auto SSL renew (cronjob)
 - Auto reload nginx and x-ui
