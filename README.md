@@ -1,15 +1,14 @@
 # x-ui-pro (x-ui + nginx)
 > Auto SSL renew
 > Multi SubDomain Support
-> Suppor
->
+> Support ws,grpc via nginx
+
 ## 
     
 **Install**
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -install yes
 ```
-## 
 
 **Add more domain**
 ```
