@@ -1,4 +1,4 @@
-### x-ui-pro (x-ui + nginx) :octocat:	:open_file_folder:	
+## x-ui-pro (x-ui + nginx) :octocat:	:open_file_folder:	
 🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 - Auto Installation (lightweight)
 - Compatible with Cloudflare
@@ -37,6 +37,17 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Client Configuration :white_check_mark:	:computer:🔌
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/client_config.png)
+
+
+## Tools
+### Cloudflare Find Good IP (VPN off❗ during scanning)
+
+CF IP Range: https://www.cloudflare.com/ips/
+
+CF IP Scanner:
+https://cf.igmsy.xyz
+https://cloudflare-scanner.vercel.app
+
 
 🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄
 
