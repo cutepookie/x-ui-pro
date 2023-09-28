@@ -1,6 +1,5 @@
 #!/bin/bash
 ### https://github.com/GFW4Fun
-
 Green="\033[32m"
 Red="\033[31m"
 Yellow="\033[33m"
@@ -13,7 +12,6 @@ function msg_ok() { echo -e "${OK} ${Blue} $1 ${Font}"; }
 function msg_err() { echo -e "${ERROR} ${Yellow} $1 ${Font}"; }
 ###################################
 apt install unzip -y
-yum install unzip -y
 cd $HOME
 if [[ -d "randomfakehtml-master" ]]; then
 	cd randomfakehtml-master
@@ -36,3 +34,4 @@ if [[ -d "${RandomHTML}" && -d "/var/www/html/" ]]; then
 else
 	msg_err "Extraction error!"
 fi
+#################################
