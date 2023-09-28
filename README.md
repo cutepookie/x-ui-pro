@@ -39,7 +39,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 
 🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄
 
-[![Hits](https://hits.sh/github.com/GFW4Fun/x-ui-pro.svg?label=x-ui-pro&extraCount=20&logo=firefox)](https://hits.sh/github.com/GFW4Fun/x-ui-pro/)
+![](https://hits.sh/github.com/GFW4Fun/x-ui-pro.svg?label=x-ui-pro&extraCount=20&logo=firefox)
 
 
 
