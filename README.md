@@ -7,7 +7,7 @@
 - Handle Websocket and GRPC via nginx
 - Multi User and config via port 443
 - Access to x-ui panel via nginx
-- Compatible with Debian_12و Ubuntu_22
+- Compatible with Debian_12, Ubuntu_22
 
 ##     
 **Install**:dvd::package:
