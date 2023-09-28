@@ -37,4 +37,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ### Client Configuration :white_check_mark:	:computer:🔌
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/client_config.png)
 
-🌲🌲🌲	:sheep:🌲🌲🌲🌲🌲🌲🌲🌲:sheep:🌲🌲🌲🌲🌲:sheep:🌲🌲🌲🌲🌲:sheep:🌲🌲🌲🌲🌲
+🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGFW4Fun%2Fx-ui-pro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
