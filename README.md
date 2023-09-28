@@ -42,7 +42,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ## Tools
 ### Cloudflare Find Good IP (VPN off❗ during scanning)
 
-CF IP Range: https://www.cloudflare.com/ips/
+CF IP Range: https://www.cloudflare.com/ips/ https://cf.igmsy.xyz/ip-list.html
 
 CF IP Scanner:
 https://cf.igmsy.xyz
