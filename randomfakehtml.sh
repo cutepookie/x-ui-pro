@@ -12,7 +12,7 @@ function msg_inf() {  echo -e "${Blue} $1 ${Font}"; }
 function msg_ok() { echo -e "${OK} ${Blue} $1 ${Font}"; }
 function msg_err() { echo -e "${ERROR} ${Yellow} $1 ${Font}"; }
 ###################################
-apt update && apt install unzip -y
+apt install unzip -y
 cd $HOME
 if [[ -d "randomfakehtml-master" ]]; then
 	cd randomfakehtml-master
