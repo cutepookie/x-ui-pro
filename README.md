@@ -18,7 +18,7 @@
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -install yes
 ```
 
-**Add more domain**:heavy_plus_sign:	
+**Add more domains**:heavy_plus_sign:	
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.domain.tld
 ```
