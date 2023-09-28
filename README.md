@@ -9,6 +9,7 @@
 - Access to x-ui panel via nginx
 - Compatible with Debian_12, Ubuntu_22
 - More Security and low Detection with nginx
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 **Install**:dvd::package:
