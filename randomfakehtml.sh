@@ -15,12 +15,12 @@ function msg_err() { echo -e "${ERROR} ${Yellow} $1 ${Font}"; }
 apt update && apt install unzip -y
 cd $HOME
 if [[ -d "randomfakehtml-master" ]]; then
-	cd "randomfakehtml-master"
+	cd randomfakehtml-master
 else
 	wget https://github.com/GFW4Fun/randomfakehtml/archive/refs/heads/master.zip
 	unzip master.zip && rm master.zip
-	cd "randomfakehtml-master"
-	rm -rf "assets"
+	cd randomfakehtml-master
+	rm -rf assets
 	rm ".gitattributes" "README.md" "_config.yml"
 fi
 ###################################
@@ -29,8 +29,8 @@ RandomHTML=$(a=(*); echo ${a[$((RANDOM % ${#a[@]}))]} 2>&1)
 msg_inf "Random template name: ${RandomHTML}"
 #################################
 if [[ -d "${RandomHTML}" && -d "/var/www/html/" ]]; then
-	rm -rf "/var/www/html/*"
-	cp -a "${RandomHTML}/." "/var/www/html/"
+	rm -rf /var/www/html/*
+	cp -a ${RandomHTML}/. "/var/www/html/"
 	msg_ok "Template extracted successfully!"
 else
 	msg_err "Extraction error!"
