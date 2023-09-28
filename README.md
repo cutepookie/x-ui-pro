@@ -36,7 +36,9 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Client Configuration :white_check_mark:	:computer:🔌
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/client_config.png)
-
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+### v2rayN Configuration ⚙️
+![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/direct_gfw.png)
 
 ## Tools
 ### Cloudflare Find Good IP (VPN off❗ during scanning)
