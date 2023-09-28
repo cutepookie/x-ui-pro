@@ -11,6 +11,7 @@
 - More security and low detection with nginx
 - Nginx with anti-exploit, keepalive=on, cache=off
 - Random 150+ fake template!
+  
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 **Install Panel**:dvd::package:
