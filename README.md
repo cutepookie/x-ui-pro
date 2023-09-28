@@ -24,6 +24,12 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.domain.tld
 ```
 
+
+**Random fake html site**:earth_asia:	
+```
+bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/randomfakehtml.sh)
+```
+
 **Uninstall**:x:
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -uninstall yes
@@ -38,7 +44,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/client_config.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### v2rayN Configuration ⚙️
->Block GFW List (Server) , Direct GFW (Client)
+>Block GFW List (Server/ouput) , Direct GFW (Client)
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/ipban.sh) -install yes -io OUTPUT -geoip CN,IR,RU,CU,VN,ZW,BY -limit DROP -noicmp yes
 ```
