@@ -29,11 +29,11 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 ```
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-### Config on server :wrench:🐧⚙️
+### Server Configuration :wrench:🐧⚙️
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/admin_config.png)
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/trojan_grpc_admin.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-### Config on client :white_check_mark:	:computer:🔌
+### Client Configuration :white_check_mark:	:computer:🔌
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/client_config.png)
 
 🌲🌲🌲	:sheep:🌲🌲🌲🌲🌲🌲🌲🌲:sheep:🌲🌲🌲🌲🌲:sheep:🌲🌲🌲🌲🌲:sheep:🌲🌲🌲🌲🌲
