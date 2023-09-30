@@ -27,7 +27,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 
 **Add more domains**:heavy_plus_sign:	
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.domain.tld
+bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.newdomain.tld
 ```
 
 **Random fake html site**:earth_asia:	
