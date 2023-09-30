@@ -20,13 +20,15 @@
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -install yes -panel 0
 ```
 > -panel 0> FranzKafkaYu 1> MHSanaei 2> alireza0
-
+> 
+> For the additional subdomain, New A,AAAA[VPSIP] Recorde , no any config in vps!!!
+>
+> SSL works for (yourdomain.com, *.yourdomain.com)
 
 **Add more domains**:heavy_plus_sign:	
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.domain.tld
 ```
-
 
 **Random fake html site**:earth_asia:	
 ```
