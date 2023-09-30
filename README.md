@@ -24,10 +24,12 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-
 > For the additional subdomain, New A,AAAA[VPSIP] Recorde , no any config in vps!!!
 >
 > SSL works for (yourdomain.com, *.yourdomain.com)
-
+>
+> No need to on/off CDN, during installation
+>
 **Add more domains**:heavy_plus_sign:	
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.newdomain.tld
+bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.newdomain.com
 ```
 
 **Random fake html site**:earth_asia:	
