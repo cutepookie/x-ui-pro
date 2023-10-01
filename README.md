@@ -64,6 +64,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/ipban
 > Allow to 22,80,443
 >
 ```
+apt install ufw -y
 ufw reset && ufw enable
 ufw allow 22,80,443/tcp
 ufw allow 22,80,443/udp
