@@ -58,6 +58,18 @@ bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/ipban
 > Direct GFW List (Client)
 ![](https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/media/direct_gfw.png)
 
+### Server Allow to ports ⚙️
+> Allow to SSH HTTP HTTPS
+> 
+> Allow to 22,80,443
+>
+```
+ufw reset && ufw enable
+ufw allow 22,80,443/tcp
+ufw allow 22,80,443/udp
+```
+
+
 ## Tools
 ### Cloudflare Find Good IP (VPN off❗ during scanning)
 
@@ -68,8 +80,6 @@ https://cf.igmsy.xyz |
 https://cloudflare-scanner.vercel.app |
 https://ircfspace.github.io/scanner/
 
-
-🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄🍀🌱🌿🍃🎄
 
 ![](https://hits.sh/github.com/GFW4Fun/x-ui-pro.svg?label=x-ui-pro&extraCount=20&logo=firefox)
 
